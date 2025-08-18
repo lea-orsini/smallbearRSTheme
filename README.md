@@ -18,4 +18,4 @@ My personnalized Rstudio theme (Dark theme)
 - Click on Remove
 
 ## Created to be combined with rainbows parentheses
-- Tools -> Global Options... -> Code -> Display -> Check Use rainbow parentheses
+- Tools -> Global Options... -> Code -> Display -> Check "Use rainbow parentheses"
