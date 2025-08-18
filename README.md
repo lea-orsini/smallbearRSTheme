@@ -1,5 +1,5 @@
 # smallbearRSTheme
-Small Bear Rstudio personnalized appearance theme
+My personnalized Rstudio theme
 
 ## To install: 
 - Download smallbear.rstheme on your Desktop
