@@ -2,7 +2,7 @@
 My personnalized Rstudio theme (Dark theme)
 
 ### Capsule
-![alt text](https://github.com/[lea-orsini]/[smallbearRSTheme]/blob/main/capsule/global.jpg?raw=true)
+![alt text](https://github.com/lea-orsini/smallbearRSTheme/blob/main/capsule/global.jpg?raw=true)
 
 ## To install
 - Download smallbear.rstheme on your Desktop
