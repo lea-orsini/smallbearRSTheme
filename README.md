@@ -1,6 +1,6 @@
 # smallbearRSTheme
 My personnalized Rstudio theme (Dark theme)
-![alt text](https://github.com/lea-orsini/smallbearRSTheme/blob/main/capsule/global.JPG?raw=true)
+![alt text](https://github.com/lea-orsini/smallbearRSTheme/blob/main/capsule/workplace.JPG?raw=true)
 ## To install
 - Download smallbear.rstheme on your Desktop
 - Open Rstudio
