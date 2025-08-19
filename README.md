@@ -1,7 +1,7 @@
 # smallbearRSTheme
 My personnalized Rstudio theme (Dark theme)
 
-## To install: 
+## To install
 - Download smallbear.rstheme on your Desktop
 - Open Rstudio
 - Tools -> Global Options... -> Appearance -> Add...
@@ -9,7 +9,7 @@ My personnalized Rstudio theme (Dark theme)
 - "Small Bear" theme should now appears from the Editor theme dropdown menu
 - Click on Apply
 
-## To remove: 
+## To remove
 - Open Rstudio
 - Tools -> Global Options... -> Appearance
 - Select any other theme from the Editor theme dropdown menu
